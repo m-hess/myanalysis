@@ -1,7 +1,1 @@
-# Project <insert name>
-
-## Dataset structure
-
-- All inputs (i.e. building blocks from other sources) are located in
-  `inputs/`.
-- All custom code is located in `code/`.
+it is a foggy day
